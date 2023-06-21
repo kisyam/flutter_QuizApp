@@ -37,4 +37,22 @@ const questions = [
       'Text',
     ],
   ),
+  QuizQuestion(
+    "Which Flutter widget is used for displaying text on the screen?",
+    [
+      'TextBlock',
+      'TextView',
+      'TextWidget',
+      'Text',
+    ],
+  ),
+  QuizQuestion(
+    "Which Flutter widget is used for displaying text on the screen?",
+    [
+      'TextBlock',
+      'TextView',
+      'TextWidget',
+      'Text',
+    ],
+  ),
 ];
